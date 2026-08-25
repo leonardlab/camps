@@ -8,6 +8,13 @@ abstract: >-
 type: software
 license: MIT
 repository-code: "https://github.com/leonardlab/camps"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.22089114"
+    description: "Concept DOI - resolves to the latest release"
+  - type: doi
+    value: "10.5281/zenodo.22089115"
+    description: "Version DOI for v1.0.0, published with the study"
 authors:
   - family-names: Schreiber
     given-names: Yannick

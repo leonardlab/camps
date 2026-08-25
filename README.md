@@ -1,5 +1,7 @@
 # camps
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22089114.svg)](https://doi.org/10.5281/zenodo.22089114)
+
 Analysis software for the CAMP cell-motility study.
 
 Cell detection and tracking from timelapse movies, per-cell mean squared
@@ -87,9 +89,21 @@ contrast, 1.02939 um/px and 5 frames for GFP.
 
 PMA doses are in ng/mL.
 
+## Citation and archived versions
+
+Each release is archived on Zenodo. Cite the DOI for the specific version you
+used; the concept DOI always resolves to the most recent release.
+
+| | DOI |
+|---|---|
+| v1.0.0 (published with the study) | [10.5281/zenodo.22089115](https://doi.org/10.5281/zenodo.22089115) |
+| All versions (concept) | [10.5281/zenodo.22089114](https://doi.org/10.5281/zenodo.22089114) |
+
+The supporting data are archived separately at
+[10.5281/zenodo.22073097](https://doi.org/10.5281/zenodo.22073097).
+
+See `CITATION.cff` for author and citation metadata.
+
 ## License
 
 MIT. See `LICENSE`.
-
-The supporting data are archived separately at
-[doi:10.5281/zenodo.22073097](https://doi.org/10.5281/zenodo.22073097).
