@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.DS_Store
+.ipynb_checkpoints/
+
+# figure rebuilds (diff against figures/output/)
+figures/rebuilt/
+
+# pipeline outputs
+pipeline/results/
+pipeline/msd_per_cell/
+
+# a local Fiji must never be committed (~400 MB)
+Fiji/
+Fiji.app/

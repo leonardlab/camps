@@ -1,0 +1,38 @@
+figure,panel,comparison,family,n1,n2,fold,t,df,p,stars,test,highlighted
+Fig 4b,24h prior,5E5 vs 5E5+PMA,ref vs PMA,2,2,0.09708740414057142,-19.662736976049985,1.191844596498047,0.019173029407745207,*,Welch t-test on log10 per-well arithmetic mean MSD,True
+Fig 4b,in-assay,5E5 vs 5E5+PMA,ref vs PMA,2,2,0.5091832802570975,-2.965210458081448,1.026023558255346,0.20194735926816157,ns,Welch t-test on log10 per-well arithmetic mean MSD,True
+Fig 4c,activated · PMA added at 0 h,0 vs 2 ng/mL,ref vs dose,2,2,0.23809981200630917,-7.672347562938209,1.971242595917458,0.017255412988614865,*,Welch t-test on log10 per-well arithmetic mean MSD,True
+Fig 4c,activated · PMA added at 0 h,0 vs 10 ng/mL,ref vs dose,2,2,0.1102953276258015,-8.852271222317318,1.5948080955757113,0.024102272585064016,*,Welch t-test on log10 per-well arithmetic mean MSD,True
+Fig 4c,activated · PMA added at 0 h,0 vs 50 ng/mL,ref vs dose,2,2,0.09090303483216043,-7.241239288284002,1.3177936907481698,0.050811189569516114,ns,Welch t-test on log10 per-well arithmetic mean MSD,True
+Fig 4c,activated · PMA added at 0 h,0 vs 2 ng/mL,sequential,2,2,0.23809981200630917,-7.672347562938209,1.971242595917458,0.017255412988614865,*,Welch t-test on log10 per-well arithmetic mean MSD,False
+Fig 4c,activated · PMA added at 0 h,2 vs 10 ng/mL,sequential,2,2,0.46323147715412266,-2.989775417437189,1.7144435265416782,0.11518943189858966,ns,Welch t-test on log10 per-well arithmetic mean MSD,False
+Fig 4c,activated · PMA added at 0 h,10 vs 50 ng/mL,sequential,2,2,0.8241784741831202,-0.5150990222060192,1.794879706893831,0.6628380210889924,ns,Welch t-test on log10 per-well arithmetic mean MSD,False
+Fig 4c,activated · PMA added at −48 h,0 vs .08 ng/mL,ref vs dose,2,2,0.5001342026123538,-5.929326511545963,1.054651563812051,0.09751754338093477,ns,Welch t-test on log10 per-well arithmetic mean MSD,True
+Fig 4c,activated · PMA added at −48 h,0 vs .4 ng/mL,ref vs dose,2,2,0.26415985973580125,-8.618820401094446,1.974181259840152,0.01372626523095072,*,Welch t-test on log10 per-well arithmetic mean MSD,True
+Fig 4c,activated · PMA added at −48 h,0 vs 2 ng/mL,ref vs dose,2,2,0.10428176903282621,-13.464395489947458,1.9935274767510494,0.005540523115477473,**,Welch t-test on log10 per-well arithmetic mean MSD,True
+Fig 4c,activated · PMA added at −48 h,0 vs .08 ng/mL,sequential,2,2,0.5001342026123538,-5.929326511545963,1.054651563812051,0.09751754338093477,ns,Welch t-test on log10 per-well arithmetic mean MSD,False
+Fig 4c,activated · PMA added at −48 h,.08 vs .4 ng/mL,sequential,2,2,0.5281779537492408,-6.106388305827567,1.0687355841972987,0.09249117260186343,ns,Welch t-test on log10 per-well arithmetic mean MSD,False
+Fig 4c,activated · PMA added at −48 h,.4 vs 2 ng/mL,sequential,2,2,0.39476765749771114,-5.824838978712178,1.9436749561815159,0.030142966002439715,*,Welch t-test on log10 per-well arithmetic mean MSD,False
+Fig 6b,Ctrl-LumiScarlet · run1,untr. vs 500,ref vs dose/PMA,3,3,0.8018307678640686,-0.6640464538206818,3.734792663347291,0.5453992700216721,ns,Welch t-test on log10 per-well arithmetic mean MSD,False
+Fig 6b,Ctrl-LumiScarlet · run1,untr. vs PMA,ref vs dose/PMA,3,2,0.18443366123151617,-3.750843678807585,2.0463532339966095,0.062051104734517006,ns,Welch t-test on log10 per-well arithmetic mean MSD,True
+Fig 6b,Ctrl-LumiScarlet · run2,untr. vs 500,ref vs dose/PMA,3,3,0.5990715403194976,-1.8534752627982638,2.2565223015115796,0.19037428023821193,ns,Welch t-test on log10 per-well arithmetic mean MSD,False
+Fig 6b,Ctrl-LumiScarlet · run2,untr. vs PMA,ref vs dose/PMA,3,3,0.16376764456082674,-5.593459381510858,2.184525562972009,0.024941104668089045,*,Welch t-test on log10 per-well arithmetic mean MSD,True
+Fig 6b,CAMP-7 · run1,untr. vs 20,ref vs dose/PMA,3,3,1.1140612397962293,0.4358765342145091,3.175229929969688,0.6908719166080929,ns,Welch t-test on log10 per-well arithmetic mean MSD,False
+Fig 6b,CAMP-7 · run1,untr. vs 100,ref vs dose/PMA,3,3,0.7986443157049179,-1.0248119892895404,2.153621269438673,0.40657992113665264,ns,Welch t-test on log10 per-well arithmetic mean MSD,False
+Fig 6b,CAMP-7 · run1,untr. vs 500,ref vs dose/PMA,3,3,0.8453938737109653,-0.6415694100227922,3.557401151495297,0.5601317255079076,ns,Welch t-test on log10 per-well arithmetic mean MSD,False
+Fig 6b,CAMP-7 · run2,untr. vs 20,ref vs dose/PMA,3,3,0.6512003596259175,-1.6761790515794368,3.2553252152491776,0.1851034424377001,ns,Welch t-test on log10 per-well arithmetic mean MSD,False
+Fig 6b,CAMP-7 · run2,untr. vs 100,ref vs dose/PMA,3,3,0.9030338984167912,-0.4257448352076081,3.4370220169175214,0.695572512775425,ns,Welch t-test on log10 per-well arithmetic mean MSD,False
+Fig 6b,CAMP-7 · run2,untr. vs 500,ref vs dose/PMA,3,3,1.0242361852272475,0.14574385185329994,3.7366455384828483,0.8916438609106861,ns,Welch t-test on log10 per-well arithmetic mean MSD,False
+Fig 6b,CAMP-24 · run1,untr. vs 20,ref vs dose/PMA,3,3,1.6834440004227482,2.0539623982553157,3.840245795534834,0.1121029383357867,ns,Welch t-test on log10 per-well arithmetic mean MSD,False
+Fig 6b,CAMP-24 · run1,untr. vs 100,ref vs dose/PMA,3,3,1.589720560936827,1.690888968799849,3.9963900615727734,0.16618421513800588,ns,Welch t-test on log10 per-well arithmetic mean MSD,False
+Fig 6b,CAMP-24 · run1,untr. vs 500,ref vs dose/PMA,3,3,1.2275974854501002,0.6042397560358584,3.6118961846513455,0.5815648961405177,ns,Welch t-test on log10 per-well arithmetic mean MSD,False
+Fig 6b,CAMP-24 · run2,untr. vs 20,ref vs dose/PMA,3,3,1.0056794062934753,0.024260315362676227,3.2121801618464323,0.9820743342319854,ns,Welch t-test on log10 per-well arithmetic mean MSD,False
+Fig 6b,CAMP-24 · run2,untr. vs 100,ref vs dose/PMA,3,3,0.819191067288085,-0.8869163586313473,2.9115251769732473,0.4422502208248918,ns,Welch t-test on log10 per-well arithmetic mean MSD,False
+Fig 6b,CAMP-24 · run2,untr. vs 500,ref vs dose/PMA,3,3,0.9723483835270473,-0.10070537323957138,3.989648192993407,0.9246420857706458,ns,Welch t-test on log10 per-well arithmetic mean MSD,False
+Fig 6b,CAMP-26 · run1,untr. vs 20,ref vs dose/PMA,3,3,1.4775848353903773,1.1664459641115648,3.733033239772127,0.31250551884508126,ns,Welch t-test on log10 per-well arithmetic mean MSD,False
+Fig 6b,CAMP-26 · run1,untr. vs 100,ref vs dose/PMA,3,3,1.0500405728794402,0.23283141943260555,2.2859353410459544,0.8351118052268195,ns,Welch t-test on log10 per-well arithmetic mean MSD,False
+Fig 6b,CAMP-26 · run1,untr. vs 500,ref vs dose/PMA,3,3,0.9706251411046581,-0.11379914941054221,3.8526495787487893,0.9150791937580991,ns,Welch t-test on log10 per-well arithmetic mean MSD,False
+Fig 6b,CAMP-26 · run2,untr. vs 20,ref vs dose/PMA,3,3,1.0159494268861087,0.06497120408556921,3.9978761277790382,0.9513159782593781,ns,Welch t-test on log10 per-well arithmetic mean MSD,False
+Fig 6b,CAMP-26 · run2,untr. vs 100,ref vs dose/PMA,3,3,0.4614564290440311,-1.7192318438026213,2.650307333873572,0.1959861728166526,ns,Welch t-test on log10 per-well arithmetic mean MSD,False
+Fig 6b,CAMP-26 · run2,untr. vs 500,ref vs dose/PMA,3,3,0.816158701294276,-1.0305321617055048,3.222410226636472,0.37380687068391427,ns,Welch t-test on log10 per-well arithmetic mean MSD,False
+Fig 6b,Ctrl-LumiScarlet · runs pooled,untr. vs PMA,ref vs dose/PMA (run-blocked OLS),6,5,0.173,,,0.000102,***,"OLS on log10 per-well arithmetic mean MSD, run as blocking factor",False
