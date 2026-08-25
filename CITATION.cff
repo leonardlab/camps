@@ -1,13 +1,48 @@
 cff-version: 1.2.0
-message: "If you use this software, please cite the accompanying paper."
+message: "If you use this software, please cite it as below."
 title: "camps: analysis software for the CAMP cell-motility study"
 abstract: >-
   Cell detection and tracking from timelapse movies, per-cell mean squared
-  displacement, and the figure and statistics code for the CAMP motility study.
+  displacement, and the figure and statistics code for the CAMP cell-motility
+  study.
+type: software
+license: MIT
+repository-code: "https://github.com/leonardlab/camps"
 authors:
-  - family-names: Bower
-    given-names: Xavier Scott
   - family-names: Schreiber
     given-names: Yannick
-repository-code: "https://github.com/leonardlab/camps"
-license: TBD
+    orcid: "https://orcid.org/0000-0002-1060-2027"
+    affiliation: "Northwestern University"
+  - family-names: Keller
+    given-names: Madeleine
+    orcid: "https://orcid.org/0009-0002-3906-2711"
+    affiliation: "Northwestern University"
+  - family-names: Bower
+    given-names: Xavier
+    orcid: "https://orcid.org/0009-0003-3074-6997"
+    affiliation: "Northwestern University"
+  - family-names: Fuller
+    given-names: Ethan
+    orcid: "https://orcid.org/0000-0002-8389-3443"
+    affiliation: "Northwestern University"
+  - family-names: Woo
+    given-names: Jieun
+    orcid: "https://orcid.org/0009-0002-3354-3450"
+    affiliation: "Northwestern University"
+  - family-names: Memmos
+    given-names: Nikolaos
+    orcid: "https://orcid.org/0000-0002-9869-7664"
+    affiliation: "University of Minnesota"
+  - family-names: Odde
+    given-names: David
+    orcid: "https://orcid.org/0000-0001-7731-2799"
+    affiliation: "University of Minnesota System"
+  - family-names: Leonard
+    given-names: Joshua
+    orcid: "https://orcid.org/0000-0003-4359-6126"
+    affiliation: "Northwestern University"
+references:
+  - type: data
+    title: "Supplementary Data for 'Genetically inducible coordinators of cytokine signaling pathways for interrogating T cell motility'"
+    doi: "10.5281/zenodo.22073097"
+    year: 2026

@@ -86,3 +86,10 @@ Pixel size and MSD lag differ by channel: 0.68626 um/px and 3 frames for phase
 contrast, 1.02939 um/px and 5 frames for GFP.
 
 PMA doses are in ng/mL.
+
+## License
+
+MIT. See `LICENSE`.
+
+The supporting data are archived separately at
+[doi:10.5281/zenodo.22073097](https://doi.org/10.5281/zenodo.22073097).
